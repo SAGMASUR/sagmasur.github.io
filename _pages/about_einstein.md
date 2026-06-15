@@ -6,6 +6,7 @@ Currently, I lead and contribute to products focused on merchant payment accepta
 
 Some of the key initiatives I have worked on include:
 
+4521
 Billing application integration with EDC terminals
 Smart transaction routing and fallback mechanisms
 Consolidated settlement solutions across multiple merchant IDs
