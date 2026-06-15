@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Viman Nagar, Pune.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chat_gpt_test_imagepng.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> 8655608473 </p>
