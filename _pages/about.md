@@ -1,3 +1,4 @@
+<!--
 ---
 layout: about
 title: about
@@ -43,5 +44,50 @@ Some of the key initiatives I have worked on include:
 Beyond my day-to-day work, I am actively exploring below topics on which I have done some demo rojects, which are running on the pages linked along with the posts. My current areas of interest include AI/LLM workflows, workflow automations, product strategy, and modern product management practices.
 
 This website serves as a collection of my projects, insights, and learnings from building products in the payments ecosystem. I share thoughts on trends that I am following or ideas I am tinkering with, or on payment infrastructures, product management, and the learnings of AI for perspective of my role.
+--->
 
+---
+layout: about
+title: about
+permalink: /
+subtitle: Senior Product Manager — Payments &amp; Merchant Acquiring
 
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Pune, India</p>
+    <p>Open to relocation, incl. international</p>
+
+# --- Homepage section toggles ---
+# NOTE: al-folio changed these keys across versions. Older versions use the
+# simple booleans below. Newer v1.x uses nested blocks (announcements:/latest_posts:
+# with `enabled: true`). Open your CURRENT about.md and match whichever style it
+# already uses — only change the true/false values, don't swap the key names.
+
+selected_papers: false   # academic — off
+social: true             # keeps your social icons (edit _data/socials or _config.yml)
+
+# Career timeline lives in the news/announcements section:
+news: true               # OLDER al-folio: shows the _news timeline on the homepage
+# announcements:         # NEWER v1.x: use this block INSTEAD of `news:` if present
+#   enabled: true
+#   scrollable: true
+#   limit: 5
+
+latest_posts: false      # turn on only if you add a blog
+---
+
+I'm a product manager working at the intersection of **payments infrastructure and
+merchant acquiring** — EDC terminal networks, settlement and reconciliation, UPI,
+NACH, and cross-border trade finance. Over ~6 years I've moved from building payment
+software (Android) to analysing it (banking) to owning it end-to-end as a PM.
+
+Today I focus on shipping products that move money reliably at scale: a 50,000-strong
+EDC terminal network running at a sub-1% technical decline rate, NACH mandate automation,
+and settlement/reconciliation systems where correctness isn't optional.
+
+I'm also building in the open — a set of **AI and automation projects** applying LLMs to
+real payment-PM workflows. You'll find both my work history and those builds under
+[work](/projects/).
